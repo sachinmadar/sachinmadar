@@ -10,17 +10,17 @@
 
 - 🌱 I’m currently learning **Upskilling in Java, Springboot, Hibernate, html, css, js**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sachinmadar221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/sachinmadar221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sachinmadar221/](https://www.linkedin.com/in/sachinmadar221/)
 
-- 💬 Ask me about **Java, Springboot, JavaScript etc.**
+- 💬 Ask me about **Java, Springboot, Hibernate, MySQL etc.**
 
 - 📫 How to reach me **sachinmadar221@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t5asdlls0TvEYwaN9kVlA3d0RB3tCuCt/view?usp=drivesdk](https://drive.google.com/file/d/1t5asdlls0TvEYwaN9kVlA3d0RB3tCuCt/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17TUVX8eKU6l9U-hqEqbg8W7dQvIJlUt_/view?usp=drive_link](https://drive.google.com/file/d/17TUVX8eKU6l9U-hqEqbg8W7dQvIJlUt_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachinmadar221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachinmadar221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachinmadar221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachinmadar221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/justme_sa_chinna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justme_sa_chinna" height="30" width="40" /></a>
 </p>
 
